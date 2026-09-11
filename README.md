@@ -25,7 +25,7 @@ The purpose of this project is to create a chatbot that can interact with users 
 ![Sample Output](README_Sample_Output.png)
 
 ## Future Enhancements
-- Integrate Vector Database for storing embeddings. (Reach out to me if you need to get this done).
+- Integrate Vector Database for storing embeddings. 
 - Support for additional document formats, such as Word documents or web pages.
 - Integration of more advanced language models and embeddings.
 - Improved error handling and user feedback.
